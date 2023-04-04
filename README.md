@@ -1,5 +1,5 @@
 ## Social media criada com ReactJS
 [DogsApp](https://main--dogsappsocial.netlify.app/)
 
-### Histórico
-[WebContent](https://github.com/JosueFernandes7/Web-Content) > ReactJs > 06. ProjectDogs/dogs-app
+### Histórico do Repositório
+[WebContent > ReactJs > Dogs](https://github.com/JosueFernandes7/Web-Content/tree/main/ReactJs/06.%20ProjectDogs/dogs-app)
